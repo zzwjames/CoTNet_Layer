@@ -1,2 +1,2 @@
 # CoTNet_Layer
-Implementation of CoTNet_Layer base on keras 
+Implementation of CoTNet_Layer based on keras 
